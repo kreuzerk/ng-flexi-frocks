@@ -11,6 +11,11 @@
     "noFallthroughCasesInSwitch": true,
     "esModuleInterop": true,
     "sourceMap": true,
+    "paths": {
+      "ng-flexi-frocks": [
+        "./dist/ng-flexi-frocks"
+      ]
+    },
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
